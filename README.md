@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabifer1997&label=Profile%20views&color=0e75b6&style=flat" alt="gabifer1997" /> </p>
 
-- 🔭 I’m currently working on **Starcorp**
-
 - 🌱 I’m currently learning **C#, .NET and SQL Server**
 
 - 💬 Ask me about **.NET**
